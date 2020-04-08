@@ -27,8 +27,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/pbrudny/canigout"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
