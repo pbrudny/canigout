@@ -5,8 +5,7 @@ export default ({ children }) => (
   <div className="application">
     <Helmet>
       <meta charSet="utf-8" />
-      <title>Est-ce que je peux sortir de chez moi?</title>
-      <link rel="canonical" href="http://mysite.com/example" />
+      <title>Can I go out?</title>
     </Helmet>
     <div>
       {children}

@@ -26,14 +26,14 @@ export default () => (
         "paddingRight": "2vw",
         "color": "#777",
         "fontFamily": "Helvetica Neue,Helvetica,Arial,sans-serif"
-      }}>Par contre, vous pouvez trouver un bon travail en remote sur <a
-          href={'https://jobsforit.fr/filters/all/remote'}
+      }}>Proudly presented by <a
+          href={'https://jobsforit.de/filters/all/remote'}
           target={'_blank'}
           style={{
             "textDecoration": "none",
             "color": "#337ab7",
            }}>
-          JobsForIT.fr
+          JobsForIT.de
         </a>
       </span>
     </div>
