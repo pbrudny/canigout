@@ -13,7 +13,7 @@ export default () => (
       fontFamily: "Helvetica Neue,Helvetica,Arial,sans-serif",
       fontSize: '80pt'
     }}>
-      No.
+      Non.
     </div>
     <div style={{
       "position": "fixed",
