@@ -29,6 +29,7 @@ export default () => (
       }}>Proudly presented by <a
           href={'https://jobsforit.de/filters/all/remote'}
           target={'_blank'}
+          rel="noopener noreferrer"
           style={{
             "textDecoration": "none",
             "color": "#337ab7",
